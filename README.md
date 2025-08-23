@@ -20,9 +20,11 @@ https://www.jetbrains.com/pycharm/download/?section=mac
 3. [Get OpenAI API key](https://platform.openai.com/)
 4. `set OPENAI_API_KEY="sk-..."`  in your .env
 
-
+### Features
 - Understand how to call openai models
-- Understand how to run models locally using ollama
+- Understand how to run models locally using<br>
+   1. ollama<br>
+   2. huggingface 
 
 
 ### Example queries
