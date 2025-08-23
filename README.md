@@ -19,8 +19,6 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 4. `set OPENAI_API_KEY="sk-..."`  in your .env
 
 
-### Features
-
 - Understand how to call openai models
 - Understand how to run models locally using ollama
 
