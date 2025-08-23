@@ -2,7 +2,7 @@
 
 ### IDE 
 Download Pycharm: 
-https://www.jetbrains.com/pycharm/download/?section=windows or 
+https://www.jetbrains.com/pycharm/download/?section=windows or <br>
 https://www.jetbrains.com/pycharm/download/?section=mac 
 
 ### How to use Pycharm
