@@ -1,0 +1,14 @@
+# pip install ollama
+# Import packages
+import ollama
+
+# Name of the downloaded model
+model = "gemma3:1b"
+
+# Task Description
+task = """Write a 50 word summary on ethics in AI."""
+
+# Generate the result
+result = ollama.generate(model=model, task=task)
+
+print(result.response)
