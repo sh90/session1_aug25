@@ -1,7 +1,9 @@
 # Software download and package installation
 
 ### IDE 
-Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or https://www.jetbrains.com/pycharm/download/?section=mac 
+Download Pycharm: 
+https://www.jetbrains.com/pycharm/download/?section=windows or 
+https://www.jetbrains.com/pycharm/download/?section=mac 
 
 ### How to use Pycharm
 1. Open pycharm and create new project
