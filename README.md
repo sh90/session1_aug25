@@ -23,8 +23,8 @@ https://www.jetbrains.com/pycharm/download/?section=mac
 ### Features
 - Understand how to call openai models
 - Understand how to run models locally using<br>
-   1. ollama<br>
-   2. huggingface 
+   1. ollama: https://ollama.com/ <br>
+   2. huggingface: https://huggingface.co/
 
 
 ### Example queries
